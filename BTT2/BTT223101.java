@@ -1,5 +1,5 @@
 public class BTT223101 {
-    static void main() {
+    public static void main(String[] args) {
 
         System.out.println("Hello world");
         System.out.println("Hello Duy Long");
