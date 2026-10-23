@@ -3,6 +3,7 @@ public class BTT223101 {
 
         System.out.println("Hello world");
         System.out.println("Hello Duy Long");
+        System.out.println("Hello Phan Lợi");
     }
 }
 
